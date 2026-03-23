@@ -127,3 +127,9 @@ When SOS • Need help now is pressed:
 - cd../server
 - npm nstall
 - npm run dev
+
+###
+
+![alt text](https://github.com/OleGoman85/CarePing/blob/main/01.png)
+![alt text](https://github.com/OleGoman85/CarePing/blob/main/02.png)
+![alt text](https://github.com/OleGoman85/CarePing/blob/main/03.png)
